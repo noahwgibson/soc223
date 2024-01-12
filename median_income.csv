@@ -1,0 +1,842 @@
+"","County","State","median_income"
+"1","Baldwin County","Alabama",63866
+"2","Calhoun County","Alabama",46524
+"3","Cullman County","Alabama",55517
+"4","DeKalb County","Alabama",41800
+"5","Elmore County","Alabama",59032
+"6","Etowah County","Alabama",45298
+"7","Houston County","Alabama",46931
+"8","Jefferson County","Alabama",55006
+"9","Lauderdale County","Alabama",50218
+"10","Lee County","Alabama",52424
+"11","Limestone County","Alabama",66796
+"12","Madison County","Alabama",78525
+"13","Marshall County","Alabama",50191
+"14","Mobile County","Alabama",49721
+"15","Montgomery County","Alabama",50385
+"16","Morgan County","Alabama",55286
+"17","St. Clair County","Alabama",60433
+"18","Shelby County","Alabama",84260
+"19","Talladega County","Alabama",45063
+"20","Tuscaloosa County","Alabama",56559
+"21","Anchorage Municipality","Alaska",86654
+"22","Fairbanks North Star Borough","Alaska",72149
+"23","Matanuska-Susitna Borough","Alaska",78856
+"24","Apache County","Arizona",40628
+"25","Cochise County","Arizona",56600
+"26","Coconino County","Arizona",64533
+"27","Maricopa County","Arizona",76247
+"28","Mohave County","Arizona",46616
+"29","Navajo County","Arizona",49449
+"30","Pima County","Arizona",60667
+"31","Pinal County","Arizona",70993
+"32","Yavapai County","Arizona",57230
+"33","Yuma County","Arizona",57304
+"34","Benton County","Arkansas",78691
+"35","Craighead County","Arkansas",50186
+"36","Faulkner County","Arkansas",55635
+"37","Garland County","Arkansas",47694
+"38","Jefferson County","Arkansas",48499
+"39","Lonoke County","Arkansas",63641
+"40","Pulaski County","Arkansas",52479
+"41","Saline County","Arkansas",67345
+"42","Sebastian County","Arkansas",47874
+"43","Washington County","Arkansas",65125
+"44","White County","Arkansas",51402
+"45","Alameda County","California",109729
+"46","Butte County","California",64738
+"47","Contra Costa County","California",111080
+"48","El Dorado County","California",87491
+"49","Fresno County","California",63656
+"50","Humboldt County","California",54752
+"51","Imperial County","California",51809
+"52","Kern County","California",58217
+"53","Kings County","California",62155
+"54","Lake County","California",61221
+"55","Los Angeles County","California",77456
+"56","Madera County","California",63454
+"57","Marin County","California",118209
+"58","Mendocino County","California",59444
+"59","Merced County","California",53992
+"60","Monterey County","California",82163
+"61","Napa County","California",97213
+"62","Nevada County","California",79519
+"63","Orange County","California",100559
+"64","Placer County","California",103659
+"65","Riverside County","California",79024
+"66","Sacramento County","California",80063
+"67","San Benito County","California",101923
+"68","San Bernardino County","California",74846
+"69","San Diego County","California",91003
+"70","San Francisco County","California",121826
+"71","San Joaquin County","California",80681
+"72","San Luis Obispo County","California",80615
+"73","San Mateo County","California",131796
+"74","Santa Barbara County","California",84846
+"75","Santa Clara County","California",141562
+"76","Santa Cruz County","California",93933
+"77","Shasta County","California",61125
+"78","Solano County","California",87770
+"79","Sonoma County","California",94295
+"80","Stanislaus County","California",73982
+"81","Sutter County","California",64251
+"82","Tehama County","California",48810
+"83","Tulare County","California",58209
+"84","Ventura County","California",96454
+"85","Yolo County","California",78146
+"86","Yuba County","California",63303
+"87","Adams County","Colorado",81258
+"88","Arapahoe County","Colorado",84386
+"89","Boulder County","Colorado",90168
+"90","Broomfield County","Colorado",107638
+"91","Denver County","Colorado",81630
+"92","Douglas County","Colorado",129299
+"93","El Paso County","Colorado",79427
+"94","Jefferson County","Colorado",94549
+"95","Larimer County","Colorado",78109
+"96","Mesa County","Colorado",64055
+"97","Pueblo County","Colorado",56689
+"98","Weld County","Colorado",85290
+"99","Fairfield County","Connecticut",100810
+"100","Hartford County","Connecticut",80069
+"101","Litchfield County","Connecticut",84978
+"102","Middlesex County","Connecticut",94887
+"103","New Haven County","Connecticut",75295
+"104","New London County","Connecticut",78828
+"105","Tolland County","Connecticut",82778
+"106","Windham County","Connecticut",72068
+"107","Kent County","Delaware",64308
+"108","New Castle County","Delaware",73854
+"109","Sussex County","Delaware",70556
+"110","District of Columbia","District of Columbia",90088
+"111","Alachua County","Florida",56445
+"112","Bay County","Florida",60557
+"113","Brevard County","Florida",65333
+"114","Broward County","Florida",65747
+"115","Charlotte County","Florida",59285
+"116","Citrus County","Florida",47197
+"117","Clay County","Florida",76679
+"118","Collier County","Florida",74215
+"119","Columbia County","Florida",54077
+"120","Duval County","Florida",59980
+"121","Escambia County","Florida",54228
+"122","Flagler County","Florida",62618
+"123","Hernando County","Florida",56868
+"124","Highlands County","Florida",48564
+"125","Hillsborough County","Florida",65905
+"126","Indian River County","Florida",58972
+"127","Lake County","Florida",64795
+"128","Lee County","Florida",66256
+"129","Leon County","Florida",58118
+"130","Manatee County","Florida",68172
+"131","Marion County","Florida",55161
+"132","Martin County","Florida",64625
+"133","Miami-Dade County","Florida",59044
+"134","Monroe County","Florida",68563
+"135","Nassau County","Florida",75981
+"136","Okaloosa County","Florida",69823
+"137","Orange County","Florida",64833
+"138","Osceola County","Florida",60585
+"139","Palm Beach County","Florida",70002
+"140","Pasco County","Florida",59470
+"141","Pinellas County","Florida",61947
+"142","Polk County","Florida",56379
+"143","Putnam County","Florida",33370
+"144","St. Johns County","Florida",91602
+"145","St. Lucie County","Florida",62797
+"146","Santa Rosa County","Florida",82059
+"147","Sarasota County","Florida",71761
+"148","Seminole County","Florida",70236
+"149","Sumter County","Florida",64608
+"150","Volusia County","Florida",58380
+"151","Walton County","Florida",61787
+"152","Barrow County","Georgia",65273
+"153","Bartow County","Georgia",71523
+"154","Bibb County","Georgia",48176
+"155","Bulloch County","Georgia",57656
+"156","Carroll County","Georgia",58473
+"157","Catoosa County","Georgia",65576
+"158","Chatham County","Georgia",61843
+"159","Cherokee County","Georgia",96267
+"160","Clarke County","Georgia",50447
+"161","Clayton County","Georgia",51233
+"162","Cobb County","Georgia",88029
+"163","Columbia County","Georgia",84220
+"164","Coweta County","Georgia",84788
+"165","DeKalb County","Georgia",70985
+"166","Dougherty County","Georgia",42067
+"167","Douglas County","Georgia",65046
+"168","Effingham County","Georgia",74460
+"169","Fayette County","Georgia",90806
+"170","Floyd County","Georgia",60825
+"171","Forsyth County","Georgia",118814
+"172","Fulton County","Georgia",83192
+"173","Glynn County","Georgia",61984
+"174","Gwinnett County","Georgia",74622
+"175","Hall County","Georgia",66719
+"176","Henry County","Georgia",74614
+"177","Houston County","Georgia",72848
+"178","Jackson County","Georgia",72116
+"179","Liberty County","Georgia",48624
+"180","Lowndes County","Georgia",42242
+"181","Muscogee County","Georgia",52734
+"182","Newton County","Georgia",75589
+"183","Paulding County","Georgia",93815
+"184","Richmond County","Georgia",48048
+"185","Rockdale County","Georgia",66267
+"186","Spalding County","Georgia",54585
+"187","Troup County","Georgia",49187
+"188","Walker County","Georgia",43672
+"189","Walton County","Georgia",73151
+"190","Whitfield County","Georgia",55519
+"191","Hawaii County","Hawaii",69473
+"192","Honolulu County","Hawaii",90704
+"193","Kauai County","Hawaii",80582
+"194","Maui County","Hawaii",76273
+"195","Ada County","Idaho",79279
+"196","Bannock County","Idaho",60736
+"197","Bonneville County","Idaho",68614
+"198","Canyon County","Idaho",64314
+"199","Kootenai County","Idaho",67593
+"200","Twin Falls County","Idaho",52880
+"201","Champaign County","Illinois",56847
+"202","Cook County","Illinois",72092
+"203","DeKalb County","Illinois",65615
+"204","DuPage County","Illinois",99577
+"205","Kane County","Illinois",91336
+"206","Kankakee County","Illinois",63364
+"207","Kendall County","Illinois",91560
+"208","Lake County","Illinois",95796
+"209","LaSalle County","Illinois",64673
+"210","McHenry County","Illinois",91887
+"211","McLean County","Illinois",69612
+"212","Macon County","Illinois",46807
+"213","Madison County","Illinois",65663
+"214","Peoria County","Illinois",55949
+"215","Rock Island County","Illinois",57895
+"216","St. Clair County","Illinois",67530
+"217","Sangamon County","Illinois",68466
+"218","Tazewell County","Illinois",63621
+"219","Vermilion County","Illinois",49091
+"220","Will County","Illinois",93752
+"221","Williamson County","Illinois",54859
+"222","Winnebago County","Illinois",56132
+"223","Allen County","Indiana",62542
+"224","Bartholomew County","Indiana",73564
+"225","Boone County","Indiana",98867
+"226","Clark County","Indiana",62231
+"227","Delaware County","Indiana",50497
+"228","Elkhart County","Indiana",60143
+"229","Floyd County","Indiana",66596
+"230","Grant County","Indiana",49401
+"231","Hamilton County","Indiana",102452
+"232","Hancock County","Indiana",79182
+"233","Hendricks County","Indiana",89228
+"234","Howard County","Indiana",55088
+"235","Johnson County","Indiana",78697
+"236","Kosciusko County","Indiana",65540
+"237","Lake County","Indiana",61443
+"238","LaPorte County","Indiana",63714
+"239","Madison County","Indiana",53785
+"240","Marion County","Indiana",58560
+"241","Monroe County","Indiana",51945
+"242","Morgan County","Indiana",67848
+"243","Porter County","Indiana",80547
+"244","St. Joseph County","Indiana",59189
+"245","Tippecanoe County","Indiana",52617
+"246","Vanderburgh County","Indiana",53171
+"247","Vigo County","Indiana",46802
+"248","Wayne County","Indiana",50138
+"249","Black Hawk County","Iowa",60264
+"250","Dallas County","Iowa",90750
+"251","Dubuque County","Iowa",75590
+"252","Johnson County","Iowa",67134
+"253","Linn County","Iowa",69420
+"254","Polk County","Iowa",73292
+"255","Pottawattamie County","Iowa",66542
+"256","Scott County","Iowa",65566
+"257","Story County","Iowa",63774
+"258","Woodbury County","Iowa",59376
+"259","Butler County","Kansas",71274
+"260","Douglas County","Kansas",56576
+"261","Johnson County","Kansas",92945
+"262","Leavenworth County","Kansas",83028
+"263","Riley County","Kansas",57335
+"264","Sedgwick County","Kansas",60364
+"265","Shawnee County","Kansas",55499
+"266","Wyandotte County","Kansas",55605
+"267","Boone County","Kentucky",83877
+"268","Bullitt County","Kentucky",68269
+"269","Campbell County","Kentucky",71701
+"270","Christian County","Kentucky",47754
+"271","Daviess County","Kentucky",59307
+"272","Fayette County","Kentucky",60942
+"273","Hardin County","Kentucky",61089
+"274","Jefferson County","Kentucky",60561
+"275","Kenton County","Kentucky",70171
+"276","McCracken County","Kentucky",64082
+"277","Madison County","Kentucky",52425
+"278","Oldham County","Kentucky",110041
+"279","Pulaski County","Kentucky",44561
+"280","Warren County","Kentucky",59752
+"281","Ascension Parish","Louisiana",72662
+"282","Bossier Parish","Louisiana",59041
+"283","Caddo Parish","Louisiana",44022
+"284","Calcasieu Parish","Louisiana",58020
+"285","East Baton Rouge Parish","Louisiana",51432
+"286","Iberia Parish","Louisiana",49447
+"287","Jefferson Parish","Louisiana",56282
+"288","Lafayette Parish","Louisiana",59093
+"289","Lafourche Parish","Louisiana",59637
+"290","Livingston Parish","Louisiana",75682
+"291","Orleans Parish","Louisiana",46942
+"292","Ouachita Parish","Louisiana",47400
+"293","Rapides Parish","Louisiana",45183
+"294","St. Landry Parish","Louisiana",38599
+"295","St. Tammany Parish","Louisiana",66582
+"296","Tangipahoa Parish","Louisiana",52872
+"297","Terrebonne Parish","Louisiana",63100
+"298","Androscoggin County","Maine",62958
+"299","Aroostook County","Maine",52849
+"300","Cumberland County","Maine",80982
+"301","Kennebec County","Maine",60528
+"302","Penobscot County","Maine",56250
+"303","York County","Maine",73875
+"304","Allegany County","Maryland",48888
+"305","Anne Arundel County","Maryland",107823
+"306","Baltimore County","Maryland",80453
+"307","Calvert County","Maryland",122266
+"308","Carroll County","Maryland",102476
+"309","Cecil County","Maryland",75692
+"310","Charles County","Maryland",105493
+"311","Frederick County","Maryland",104780
+"312","Harford County","Maryland",96328
+"313","Howard County","Maryland",133267
+"314","Montgomery County","Maryland",112854
+"315","Prince George's County","Maryland",90182
+"316","St. Mary's County","Maryland",108397
+"317","Washington County","Maryland",65367
+"318","Wicomico County","Maryland",63333
+"319","Baltimore city","Maryland",54652
+"320","Barnstable County","Massachusetts",83537
+"321","Berkshire County","Massachusetts",60749
+"322","Bristol County","Massachusetts",73102
+"323","Essex County","Massachusetts",87433
+"324","Franklin County","Massachusetts",69771
+"325","Hampden County","Massachusetts",61747
+"326","Hampshire County","Massachusetts",77495
+"327","Middlesex County","Massachusetts",112764
+"328","Norfolk County","Massachusetts",115357
+"329","Plymouth County","Massachusetts",100082
+"330","Suffolk County","Massachusetts",78155
+"331","Worcester County","Massachusetts",84952
+"332","Allegan County","Michigan",74371
+"333","Bay County","Michigan",56911
+"334","Berrien County","Michigan",57535
+"335","Calhoun County","Michigan",55192
+"336","Clinton County","Michigan",76534
+"337","Eaton County","Michigan",70133
+"338","Genesee County","Michigan",52025
+"339","Grand Traverse County","Michigan",65651
+"340","Ingham County","Michigan",57226
+"341","Ionia County","Michigan",65729
+"342","Jackson County","Michigan",58254
+"343","Kalamazoo County","Michigan",62128
+"344","Kent County","Michigan",72021
+"345","Lapeer County","Michigan",71479
+"346","Lenawee County","Michigan",61257
+"347","Livingston County","Michigan",91344
+"348","Macomb County","Michigan",67527
+"349","Marquette County","Michigan",55301
+"350","Midland County","Michigan",67707
+"351","Monroe County","Michigan",65512
+"352","Montcalm County","Michigan",55832
+"353","Muskegon County","Michigan",55462
+"354","Oakland County","Michigan",86523
+"355","Ottawa County","Michigan",79116
+"356","Saginaw County","Michigan",50606
+"357","St. Clair County","Michigan",60992
+"358","Shiawassee County","Michigan",51959
+"359","Van Buren County","Michigan",59081
+"360","Washtenaw County","Michigan",76918
+"361","Wayne County","Michigan",52605
+"362","Anoka County","Minnesota",88410
+"363","Blue Earth County","Minnesota",69858
+"364","Carver County","Minnesota",102694
+"365","Clay County","Minnesota",67539
+"366","Crow Wing County","Minnesota",63921
+"367","Dakota County","Minnesota",93786
+"368","Hennepin County","Minnesota",84244
+"369","Olmsted County","Minnesota",83070
+"370","Ramsey County","Minnesota",70518
+"371","Rice County","Minnesota",67267
+"372","St. Louis County","Minnesota",64959
+"373","Scott County","Minnesota",106987
+"374","Sherburne County","Minnesota",90638
+"375","Stearns County","Minnesota",65742
+"376","Washington County","Minnesota",104935
+"377","Wright County","Minnesota",99964
+"378","DeSoto County","Mississippi",70490
+"379","Forrest County","Mississippi",46226
+"380","Harrison County","Mississippi",55702
+"381","Hinds County","Mississippi",40658
+"382","Jackson County","Mississippi",57383
+"383","Jones County","Mississippi",40116
+"384","Lamar County","Mississippi",65334
+"385","Lauderdale County","Mississippi",41174
+"386","Lee County","Mississippi",59274
+"387","Madison County","Mississippi",75678
+"388","Rankin County","Mississippi",71241
+"389","Boone County","Missouri",62296
+"390","Buchanan County","Missouri",50113
+"391","Cape Girardeau County","Missouri",61330
+"392","Cass County","Missouri",79554
+"393","Christian County","Missouri",71343
+"394","Clay County","Missouri",74728
+"395","Cole County","Missouri",63326
+"396","Franklin County","Missouri",68410
+"397","Greene County","Missouri",53127
+"398","Jackson County","Missouri",63459
+"399","Jasper County","Missouri",52221
+"400","Jefferson County","Missouri",67955
+"401","Platte County","Missouri",85157
+"402","St. Charles County","Missouri",91601
+"403","St. Francois County","Missouri",47682
+"404","St. Louis County","Missouri",72378
+"405","St. Louis city","Missouri",49965
+"406","Cascade County","Montana",57706
+"407","Flathead County","Montana",66126
+"408","Gallatin County","Montana",80763
+"409","Lewis and Clark County","Montana",66686
+"410","Missoula County","Montana",66803
+"411","Yellowstone County","Montana",69882
+"412","Douglas County","Nebraska",69290
+"413","Lancaster County","Nebraska",64980
+"414","Sarpy County","Nebraska",87979
+"415","Clark County","Nevada",63677
+"416","Washoe County","Nevada",76220
+"417","Cheshire County","New Hampshire",67344
+"418","Grafton County","New Hampshire",80866
+"419","Hillsborough County","New Hampshire",91627
+"420","Merrimack County","New Hampshire",80918
+"421","Rockingham County","New Hampshire",104664
+"422","Strafford County","New Hampshire",95733
+"423","Atlantic County","New Jersey",66388
+"424","Bergen County","New Jersey",105171
+"425","Burlington County","New Jersey",94397
+"426","Camden County","New Jersey",78347
+"427","Cape May County","New Jersey",78657
+"428","Cumberland County","New Jersey",58389
+"429","Essex County","New Jersey",66198
+"430","Gloucester County","New Jersey",94412
+"431","Hudson County","New Jersey",80329
+"432","Hunterdon County","New Jersey",121982
+"433","Mercer County","New Jersey",87662
+"434","Middlesex County","New Jersey",99427
+"435","Monmouth County","New Jersey",108000
+"436","Morris County","New Jersey",122962
+"437","Ocean County","New Jersey",75719
+"438","Passaic County","New Jersey",75430
+"439","Salem County","New Jersey",69886
+"440","Somerset County","New Jersey",124764
+"441","Sussex County","New Jersey",99904
+"442","Union County","New Jersey",86764
+"443","Warren County","New Jersey",81159
+"444","Bernalillo County","New Mexico",59640
+"445","Doña Ana County","New Mexico",45178
+"446","Lea County","New Mexico",50725
+"447","McKinley County","New Mexico",41643
+"448","Otero County","New Mexico",51214
+"449","Sandoval County","New Mexico",72151
+"450","San Juan County","New Mexico",47819
+"451","Santa Fe County","New Mexico",67341
+"452","Valencia County","New Mexico",48188
+"453","Albany County","New York",75232
+"454","Bronx County","New York",43011
+"455","Broome County","New York",55591
+"456","Cattaraugus County","New York",55153
+"457","Cayuga County","New York",63511
+"458","Chautauqua County","New York",46661
+"459","Chemung County","New York",60219
+"460","Clinton County","New York",60285
+"461","Dutchess County","New York",88051
+"462","Erie County","New York",63035
+"463","Jefferson County","New York",60398
+"464","Kings County","New York",67567
+"465","Madison County","New York",67495
+"466","Monroe County","New York",65957
+"467","Nassau County","New York",125696
+"468","New York County","New York",84435
+"469","Niagara County","New York",61340
+"470","Oneida County","New York",60215
+"471","Onondaga County","New York",65541
+"472","Ontario County","New York",77972
+"473","Orange County","New York",90405
+"474","Oswego County","New York",59423
+"475","Putnam County","New York",106871
+"476","Queens County","New York",73262
+"477","Rensselaer County","New York",75676
+"478","Richmond County","New York",86054
+"479","Rockland County","New York",99087
+"480","St. Lawrence County","New York",55775
+"481","Saratoga County","New York",86804
+"482","Schenectady County","New York",75284
+"483","Steuben County","New York",57378
+"484","Suffolk County","New York",113683
+"485","Sullivan County","New York",54276
+"486","Tompkins County","New York",66441
+"487","Ulster County","New York",78938
+"488","Warren County","New York",73028
+"489","Wayne County","New York",64993
+"490","Westchester County","New York",110705
+"491","Alamance County","North Carolina",58400
+"492","Brunswick County","North Carolina",65374
+"493","Buncombe County","North Carolina",64532
+"494","Burke County","North Carolina",55529
+"495","Cabarrus County","North Carolina",79672
+"496","Caldwell County","North Carolina",41210
+"497","Carteret County","North Carolina",62907
+"498","Catawba County","North Carolina",59603
+"499","Chatham County","North Carolina",84555
+"500","Cleveland County","North Carolina",47150
+"501","Craven County","North Carolina",57359
+"502","Cumberland County","North Carolina",52372
+"503","Davidson County","North Carolina",52205
+"504","Durham County","North Carolina",71403
+"505","Forsyth County","North Carolina",59879
+"506","Franklin County","North Carolina",64064
+"507","Gaston County","North Carolina",54734
+"508","Guilford County","North Carolina",60734
+"509","Harnett County","North Carolina",62478
+"510","Henderson County","North Carolina",59669
+"511","Iredell County","North Carolina",69410
+"512","Johnston County","North Carolina",69394
+"513","Lincoln County","North Carolina",74201
+"514","Mecklenburg County","North Carolina",74890
+"515","Moore County","North Carolina",67160
+"516","Nash County","North Carolina",56560
+"517","New Hanover County","North Carolina",66097
+"518","Onslow County","North Carolina",55534
+"519","Orange County","North Carolina",80294
+"520","Pitt County","North Carolina",44450
+"521","Randolph County","North Carolina",57367
+"522","Robeson County","North Carolina",37008
+"523","Rockingham County","North Carolina",42901
+"524","Rowan County","North Carolina",56408
+"525","Surry County","North Carolina",51950
+"526","Union County","North Carolina",86606
+"527","Wake County","North Carolina",91299
+"528","Wayne County","North Carolina",47595
+"529","Wilkes County","North Carolina",43933
+"530","Wilson County","North Carolina",47201
+"531","Burleigh County","North Dakota",68424
+"532","Cass County","North Dakota",66009
+"533","Grand Forks County","North Dakota",65184
+"534","Ward County","North Dakota",71061
+"535","Allen County","Ohio",51497
+"536","Ashtabula County","Ohio",46771
+"537","Belmont County","Ohio",50993
+"538","Butler County","Ohio",72820
+"539","Clark County","Ohio",59431
+"540","Clermont County","Ohio",69489
+"541","Columbiana County","Ohio",49265
+"542","Cuyahoga County","Ohio",55132
+"543","Delaware County","Ohio",117224
+"544","Erie County","Ohio",58403
+"545","Fairfield County","Ohio",81226
+"546","Franklin County","Ohio",65988
+"547","Geauga County","Ohio",91305
+"548","Greene County","Ohio",79271
+"549","Hamilton County","Ohio",64065
+"550","Hancock County","Ohio",64024
+"551","Lake County","Ohio",74273
+"552","Licking County","Ohio",73325
+"553","Lorain County","Ohio",62448
+"554","Lucas County","Ohio",52687
+"555","Mahoning County","Ohio",49520
+"556","Marion County","Ohio",48919
+"557","Medina County","Ohio",86646
+"558","Miami County","Ohio",64345
+"559","Montgomery County","Ohio",56471
+"560","Muskingum County","Ohio",51173
+"561","Portage County","Ohio",64471
+"562","Richland County","Ohio",51158
+"563","Ross County","Ohio",50395
+"564","Scioto County","Ohio",40522
+"565","Stark County","Ohio",59127
+"566","Summit County","Ohio",63117
+"567","Trumbull County","Ohio",51057
+"568","Tuscarawas County","Ohio",58060
+"569","Warren County","Ohio",95817
+"570","Wayne County","Ohio",59666
+"571","Wood County","Ohio",63620
+"572","Canadian County","Oklahoma",74768
+"573","Cleveland County","Oklahoma",67172
+"574","Comanche County","Oklahoma",49325
+"575","Creek County","Oklahoma",52818
+"576","Muskogee County","Oklahoma",43437
+"577","Oklahoma County","Oklahoma",57764
+"578","Payne County","Oklahoma",49348
+"579","Pottawatomie County","Oklahoma",51451
+"580","Rogers County","Oklahoma",68777
+"581","Tulsa County","Oklahoma",58954
+"582","Wagoner County","Oklahoma",70313
+"583","Benton County","Oregon",64163
+"584","Clackamas County","Oregon",91329
+"585","Deschutes County","Oregon",79796
+"586","Douglas County","Oregon",51166
+"587","Jackson County","Oregon",64249
+"588","Josephine County","Oregon",48785
+"589","Klamath County","Oregon",46721
+"590","Lane County","Oregon",61712
+"591","Linn County","Oregon",65196
+"592","Marion County","Oregon",64406
+"593","Multnomah County","Oregon",78319
+"594","Polk County","Oregon",71532
+"595","Umatilla County","Oregon",58329
+"596","Washington County","Oregon",92147
+"597","Yamhill County","Oregon",77256
+"598","Adams County","Pennsylvania",72985
+"599","Allegheny County","Pennsylvania",69091
+"600","Armstrong County","Pennsylvania",54039
+"601","Beaver County","Pennsylvania",65003
+"602","Berks County","Pennsylvania",68658
+"603","Blair County","Pennsylvania",57361
+"604","Bucks County","Pennsylvania",100144
+"605","Butler County","Pennsylvania",78146
+"606","Cambria County","Pennsylvania",52995
+"607","Carbon County","Pennsylvania",57262
+"608","Centre County","Pennsylvania",66789
+"609","Chester County","Pennsylvania",109601
+"610","Clearfield County","Pennsylvania",55193
+"611","Crawford County","Pennsylvania",55593
+"612","Cumberland County","Pennsylvania",82691
+"613","Dauphin County","Pennsylvania",66454
+"614","Delaware County","Pennsylvania",78220
+"615","Erie County","Pennsylvania",56851
+"616","Fayette County","Pennsylvania",47981
+"617","Franklin County","Pennsylvania",66715
+"618","Indiana County","Pennsylvania",52023
+"619","Lackawanna County","Pennsylvania",62136
+"620","Lancaster County","Pennsylvania",75688
+"621","Lawrence County","Pennsylvania",59536
+"622","Lebanon County","Pennsylvania",72732
+"623","Lehigh County","Pennsylvania",68738
+"624","Luzerne County","Pennsylvania",60020
+"625","Lycoming County","Pennsylvania",60494
+"626","Mercer County","Pennsylvania",54067
+"627","Monroe County","Pennsylvania",78575
+"628","Montgomery County","Pennsylvania",102896
+"629","Northampton County","Pennsylvania",79578
+"630","Northumberland County","Pennsylvania",50751
+"631","Philadelphia County","Pennsylvania",52899
+"632","Schuylkill County","Pennsylvania",58614
+"633","Somerset County","Pennsylvania",54352
+"634","Washington County","Pennsylvania",68408
+"635","Westmoreland County","Pennsylvania",63064
+"636","York County","Pennsylvania",72949
+"637","Kent County","Rhode Island",73159
+"638","Newport County","Rhode Island",88090
+"639","Providence County","Rhode Island",67368
+"640","Washington County","Rhode Island",90427
+"641","Aiken County","South Carolina",55138
+"642","Anderson County","South Carolina",59037
+"643","Beaufort County","South Carolina",70501
+"644","Berkeley County","South Carolina",75004
+"645","Charleston County","South Carolina",72147
+"646","Dorchester County","South Carolina",70009
+"647","Florence County","South Carolina",51860
+"648","Greenville County","South Carolina",68540
+"649","Greenwood County","South Carolina",52636
+"650","Horry County","South Carolina",55819
+"651","Kershaw County","South Carolina",47995
+"652","Lancaster County","South Carolina",69796
+"653","Laurens County","South Carolina",56624
+"654","Lexington County","South Carolina",64800
+"655","Oconee County","South Carolina",50393
+"656","Orangeburg County","South Carolina",34685
+"657","Pickens County","South Carolina",48489
+"658","Richland County","South Carolina",56439
+"659","Spartanburg County","South Carolina",60472
+"660","Sumter County","South Carolina",46003
+"661","York County","South Carolina",72772
+"662","Lincoln County","South Dakota",82898
+"663","Minnehaha County","South Dakota",72748
+"664","Pennington County","South Dakota",64057
+"665","Anderson County","Tennessee",60364
+"666","Blount County","Tennessee",62102
+"667","Bradley County","Tennessee",56139
+"668","Davidson County","Tennessee",65348
+"669","Greene County","Tennessee",56488
+"670","Hamilton County","Tennessee",66096
+"671","Knox County","Tennessee",64894
+"672","Madison County","Tennessee",53720
+"673","Maury County","Tennessee",68840
+"674","Montgomery County","Tennessee",63331
+"675","Putnam County","Tennessee",52278
+"676","Robertson County","Tennessee",65139
+"677","Rutherford County","Tennessee",78201
+"678","Sevier County","Tennessee",50239
+"679","Shelby County","Tennessee",54841
+"680","Sullivan County","Tennessee",48063
+"681","Sumner County","Tennessee",70092
+"682","Washington County","Tennessee",56009
+"683","Williamson County","Tennessee",117927
+"684","Wilson County","Tennessee",80960
+"685","Angelina County","Texas",50045
+"686","Bastrop County","Texas",80423
+"687","Bell County","Texas",58542
+"688","Bexar County","Texas",63057
+"689","Bowie County","Texas",54154
+"690","Brazoria County","Texas",82460
+"691","Brazos County","Texas",49362
+"692","Cameron County","Texas",48115
+"693","Collin County","Texas",101494
+"694","Comal County","Texas",93829
+"695","Coryell County","Texas",62737
+"696","Dallas County","Texas",63494
+"697","Denton County","Texas",97671
+"698","Ector County","Texas",57473
+"699","Ellis County","Texas",89799
+"700","El Paso County","Texas",51044
+"701","Fort Bend County","Texas",96468
+"702","Galveston County","Texas",78336
+"703","Grayson County","Texas",62919
+"704","Gregg County","Texas",59869
+"705","Guadalupe County","Texas",80464
+"706","Harris County","Texas",63498
+"707","Harrison County","Texas",59405
+"708","Hays County","Texas",76842
+"709","Henderson County","Texas",49830
+"710","Hidalgo County","Texas",44818
+"711","Hunt County","Texas",56761
+"712","Jefferson County","Texas",56904
+"713","Johnson County","Texas",77933
+"714","Kaufman County","Texas",72175
+"715","Liberty County","Texas",55697
+"716","Lubbock County","Texas",57798
+"717","McLennan County","Texas",60437
+"718","Midland County","Texas",82248
+"719","Montgomery County","Texas",86903
+"720","Nueces County","Texas",59983
+"721","Orange County","Texas",71022
+"722","Parker County","Texas",85641
+"723","Potter County","Texas",44721
+"724","Randall County","Texas",70322
+"725","Rockwall County","Texas",121568
+"726","San Patricio County","Texas",59276
+"727","Smith County","Texas",63115
+"728","Starr County","Texas",33367
+"729","Tarrant County","Texas",71346
+"730","Taylor County","Texas",53315
+"731","Tom Green County","Texas",61649
+"732","Travis County","Texas",84531
+"733","Victoria County","Texas",54596
+"734","Walker County","Texas",41470
+"735","Webb County","Texas",51867
+"736","Wichita County","Texas",53465
+"737","Williamson County","Texas",96073
+"738","Wise County","Texas",81400
+"739","Cache County","Utah",69154
+"740","Davis County","Utah",93182
+"741","Salt Lake County","Utah",80712
+"742","Tooele County","Utah",93908
+"743","Utah County","Utah",86781
+"744","Washington County","Utah",61186
+"745","Weber County","Utah",72087
+"746","Chittenden County","Vermont",85213
+"747","Albemarle County","Virginia",92568
+"748","Arlington County","Virginia",125651
+"749","Augusta County","Virginia",68584
+"750","Bedford County","Virginia",66415
+"751","Chesterfield County","Virginia",85796
+"752","Fairfax County","Virginia",134115
+"753","Fauquier County","Virginia",108497
+"754","Frederick County","Virginia",86044
+"755","Hanover County","Virginia",94381
+"756","Henrico County","Virginia",78868
+"757","James City County","Virginia",88604
+"758","Loudoun County","Virginia",153506
+"759","Montgomery County","Virginia",55210
+"760","Prince William County","Virginia",118117
+"761","Roanoke County","Virginia",72231
+"762","Rockingham County","Virginia",73163
+"763","Spotsylvania County","Virginia",101289
+"764","Stafford County","Virginia",117251
+"765","York County","Virginia",97758
+"766","Alexandria city","Virginia",101162
+"767","Chesapeake city","Virginia",88815
+"768","Hampton city","Virginia",57647
+"769","Lynchburg city","Virginia",56110
+"770","Newport News city","Virginia",58937
+"771","Norfolk city","Virginia",58591
+"772","Portsmouth city","Virginia",54429
+"773","Richmond city","Virginia",51770
+"774","Roanoke city","Virginia",47202
+"775","Suffolk city","Virginia",79556
+"776","Virginia Beach city","Virginia",81634
+"777","Benton County","Washington",77059
+"778","Chelan County","Washington",65847
+"779","Clallam County","Washington",62695
+"780","Clark County","Washington",83837
+"781","Cowlitz County","Washington",71194
+"782","Franklin County","Washington",81940
+"783","Grant County","Washington",62227
+"784","Grays Harbor County","Washington",54631
+"785","Island County","Washington",76505
+"786","King County","Washington",110586
+"787","Kitsap County","Washington",87314
+"788","Lewis County","Washington",65047
+"789","Mason County","Washington",77070
+"790","Pierce County","Washington",85866
+"791","Skagit County","Washington",72648
+"792","Snohomish County","Washington",100042
+"793","Spokane County","Washington",65722
+"794","Thurston County","Washington",81659
+"795","Whatcom County","Washington",72055
+"796","Yakima County","Washington",61012
+"797","Berkeley County","West Virginia",71733
+"798","Cabell County","West Virginia",47020
+"799","Harrison County","West Virginia",51533
+"800","Kanawha County","West Virginia",56122
+"801","Monongalia County","West Virginia",56347
+"802","Raleigh County","West Virginia",38687
+"803","Wood County","West Virginia",54153
+"804","Brown County","Wisconsin",66191
+"805","Chippewa County","Wisconsin",60533
+"806","Dane County","Wisconsin",77221
+"807","Dodge County","Wisconsin",65773
+"808","Eau Claire County","Wisconsin",62445
+"809","Fond du Lac County","Wisconsin",69068
+"810","Jefferson County","Wisconsin",68319
+"811","Kenosha County","Wisconsin",70971
+"812","La Crosse County","Wisconsin",60382
+"813","Manitowoc County","Wisconsin",57918
+"814","Marathon County","Wisconsin",74494
+"815","Milwaukee County","Wisconsin",56347
+"816","Outagamie County","Wisconsin",73057
+"817","Ozaukee County","Wisconsin",85402
+"818","Portage County","Wisconsin",65928
+"819","Racine County","Wisconsin",68758
+"820","Rock County","Wisconsin",66090
+"821","St. Croix County","Wisconsin",93547
+"822","Sauk County","Wisconsin",70914
+"823","Sheboygan County","Wisconsin",62188
+"824","Walworth County","Wisconsin",69996
+"825","Washington County","Wisconsin",83384
+"826","Waukesha County","Wisconsin",94171
+"827","Winnebago County","Wisconsin",64095
+"828","Wood County","Wisconsin",52627
+"829","Laramie County","Wyoming",61381
+"830","Natrona County","Wyoming",63605
+"831","Arecibo Municipio","Puerto Rico",18341
+"832","Bayamón Municipio","Puerto Rico",26014
+"833","Caguas Municipio","Puerto Rico",26473
+"834","Carolina Municipio","Puerto Rico",30734
+"835","Guaynabo Municipio","Puerto Rico",44673
+"836","Mayagüez Municipio","Puerto Rico",15941
+"837","Ponce Municipio","Puerto Rico",17876
+"838","San Juan Municipio","Puerto Rico",22175
+"839","Toa Alta Municipio","Puerto Rico",26292
+"840","Toa Baja Municipio","Puerto Rico",30561
+"841","Trujillo Alto Municipio","Puerto Rico",36349
